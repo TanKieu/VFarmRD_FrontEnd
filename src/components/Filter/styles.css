@@ -1,0 +1,15 @@
+.App {
+    font-family: sans-serif;
+    /* text-align: center; */
+  }
+  
+  .rdt_Table {
+    margin-bottom: 1rem;
+  }
+  .rdt_TableRow {
+    background-color: grey;
+  }
+  .rdt_TableCol {
+    color: black;
+    font-weight: bolder;
+  }
